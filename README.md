@@ -177,4 +177,4 @@ terraform plan -var-file="dev.tfvars"
 terraform apply -var-file="dev.tfvars" -auto-approve</code></pre>
 
 <hr />
-<p>📄 <b>License:</b> This project is licensed under the MIT License - see the LICENSE file for details.</p>
+
