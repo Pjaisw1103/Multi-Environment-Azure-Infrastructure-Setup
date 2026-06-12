@@ -15,7 +15,7 @@
 <p>This repository provisions a secure, highly-available 3-tier architecture isolated inside private Virtual Networks (VNets), managed securely via Azure Bastion, and audited by Azure Monitor.</p>
 
 <h3>🗺️ Architecture Diagram</h3>
-<img src="./Screenshot%202026-06-11%20111246.png" alt="Enterprise Azure Architecture" width="50%" />
+<img src="./Screenshot%202026-06-11%20111246.png" alt="Enterprise Azure Architecture" width="100%" />
 
 <hr />
 
